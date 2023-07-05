@@ -20,6 +20,7 @@
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highlight-color: rgba(0, 0, 0, 0.1);
   --switch-bg-url:url(./assets/Sun.svg);
+
 }
 body {
   background: var(--bg-url) no-repeat top center/cover ;
