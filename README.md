@@ -47,6 +47,16 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
+
+Depois que clonar o projeto tem duas maneiras de ver o projeto na web abrindo a pasta do projeto e clicar no arquivo index.html ou
+dentro do VSCode vá até o arquivo index.html e clica em cima do arquivo com o botão direito,irá aparecer a opção "Open with live server" clique nessa opção e abrirá o projeto na web.
+
+![Captura de ecrã de 2024-03-07 15-09-18](https://github.com/patriciasv/Projeto-Dev-Links/assets/124616846/1a3b3706-0392-4fcb-90b7-f00746fb9a41)
+
+![Captura de ecrã de 2024-03-07 15-09-30](https://github.com/patriciasv/Projeto-Dev-Links/assets/124616846/2c88e7f6-4c32-4946-b5c7-829e0ef87f64)
+
+
+
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
