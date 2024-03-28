@@ -6,19 +6,19 @@
 :root{
   --text-color: white;
   --bg-url: url(./assets/bg-mobile-dark\ \(1080x1920\).jpg);
-  --stroke-color: rgba(255, 255, 255, 0.5);
-  --surface-color: rgba(255, 255, 255, 0.05);
-  --surface-color-hover: rgba(255, 255, 255, 0.05);
-  --highlight-color: rgba(255, 255, 255, 0.1);
+  --stroke-color: rgba(232, 146, 216, 0.5);
+  --surface-color: rgba(109, 20, 79, 0.05);
+  --surface-color-hover: rgba(38, 3, 40, 0.859);
+  --highlight-color:rgba(38, 3, 40, 0.859);
   --switch-bg-url:url(./assets/MoonStars.svg);
 }
 .light{
   --text-color: black;
   --bg-url:url(./assets/bg-mobile-light\ \(1080x1920\).jpg);
-  --stroke-color:rgba(0, 0, 0, 0.5);
+  --stroke-color:rgba(232, 146, 216, 0.5);
   --surface-color:rgba(0, 0, 0, 0.05);
-  --surface-color-hover: rgba(0, 0, 0, 0.02);
-  --highlight-color: rgba(0, 0, 0, 0.1);
+  --surface-color-hover:rgba(253, 217, 246, 0.5);
+  --highlight-color: rgba(253, 217, 246, 0.5);
   --switch-bg-url:url(./assets/Sun.svg);
 
 }
@@ -142,7 +142,7 @@ footer{
     --bg-url:url(./assets/bg-desktop-dark (1920x1080).jpg)
   }
   .light{
-      --bg-url:url(./assets/bg-desktop-light (1920x1080).jpg)
+      --bg-url:url(./assets/bg-desktop-light (1920x1080).png)
 
   }
 }
